@@ -1,2 +1,2 @@
 # Estudo-Malloc
-Programas feitos estudando o uso da função Malloc
+Programas feitos com linguagem C estudando o uso da função Malloc
